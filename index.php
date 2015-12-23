@@ -17,6 +17,8 @@
 
 <?php
 
+    // index
+
     error_reporting(E_ALL);
 
     include 'classes/FileUploader.php';
