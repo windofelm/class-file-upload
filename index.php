@@ -3,7 +3,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>PHP File Uploader Class</title>
+    <title>PHP File Uploader Class V01</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 </head>
