@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Class FileUploader
- * Author: Generaleye via odumuyiwaleye@yahoo.com
- */
-
 //$uploader = new FileUploader();
 //$image = $uploader->uploadFile('images/profile/',2048000,$_FILES['image'],'one');
 //echo json_encode($image);
